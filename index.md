@@ -18,3 +18,8 @@ public class HelloWorld {
     }
     
 }
+
+- [x] Here is an item
+- [ ] Here is another item
+- [ ] Here is another item separate from the other items
+- [ ] Here is an item too
